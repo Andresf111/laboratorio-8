@@ -77,4 +77,18 @@ No coinciden ya que, al momento de realizar una medición con un osciloscopio la
 
 https://youtu.be/CG7N7PpumIk
 
+6.CONCLUSIONES
+
+• Se logró determinar los datos importantes que muestran las ondas sinusoidales, mismos datos que nos permiten identificar cuales son los valores de Voltaje pico o voltaje pico pico, además mediante un multímetro se logró analizar el valor de Voltaje rms.
+
+• Se logró identificar correctamente cómo usar el osciloscopio identificando como mover las perillas a fin de poder ver la onda senoidal de una mejor manera en la que se puedan tomar más fácilmente sus datos.
+
+7.BIBLIOGRAFÍA
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos. Monterrey: Pearson Education.
+
+
+
+
+
 
