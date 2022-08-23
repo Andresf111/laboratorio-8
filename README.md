@@ -23,6 +23,45 @@ Material y equipo requerido
 
 ![image](https://user-images.githubusercontent.com/105291794/186002645-f05e298a-012f-4176-992f-3f2590db3f94.png)
 
-7.5.1. Implemente el circuito que se presenta en la figura 7.1
-
 ![image](https://user-images.githubusercontent.com/105291794/186002766-584a4a4c-893d-4438-be70-c3fc03ef7868.png)
+
+3.1. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
+una frecuencia de 2.5 Khz.
+
+3.2. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
+el osciloscopio.
+
+![image](https://user-images.githubusercontent.com/105386939/186031982-a3f940f2-653b-45d7-9971-4f94c2f710c6.png)
+
+![image](https://user-images.githubusercontent.com/105386939/186032429-f7cbd266-29a5-4e4f-a3be-69ec12a9bf86.png)
+
+4.RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
+
+⊛¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+
+En el simulador DCACLAB abarca 3 divisones por cuadro
+
+¿En qué valor está posicionada la perilla VOLTS/DIV?
+
+2.25
+
+⊛¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+
+Alrededor de 8 cuadros
+
+⊛¿En qué valor está posicionada la perilla TIME/DIV?
+
+50 μs
+
+⊛¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+
+Amplitud de voltaje: 6.85V
+
+Periodo: T=8*0.00005➾T=0.0004s
+
+⊛Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
+salida.
+
+![image](https://user-images.githubusercontent.com/105386939/186041156-7a8f5fbe-e856-4884-80cc-31cf62dd17bb.png)
+
+
