@@ -75,4 +75,6 @@ No coinciden ya que, al momento de realizar una medición con un osciloscopio la
 
 5.VIDEO
 
+https://youtu.be/CG7N7PpumIk
+
 
