@@ -64,4 +64,15 @@ salida.
 
 ![image](https://user-images.githubusercontent.com/105386939/186041156-7a8f5fbe-e856-4884-80cc-31cf62dd17bb.png)
 
+⊛Con el multímetro digital mida el voltaje de salida en RL:
+
+4.825V
+
+⊛Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
+¿Coinciden? No ¿Por qué?
+
+No coinciden ya que, al momento de realizar una medición con un osciloscopio la amplitud medida es el voltaje pico, y al realizar una medición de volatje de una onda con un multímetro, lo que se esta midiendo es el Voltaje RMS.
+
+5.VIDEO
+
 
